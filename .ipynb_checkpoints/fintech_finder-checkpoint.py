@@ -250,6 +250,8 @@ wage = candidate_database[person][3]*hours
 
 # @TODO
 # Write the `wage` calculation to the Streamlit sidebar
+
+#Adding the wage calculation to the sidebar of the streamlit
 st.sidebar.markdown("## The wage this candidate will need to be paid is:")
 st.sidebar.markdown(wage)
 
