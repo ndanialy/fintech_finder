@@ -12,11 +12,13 @@ This project uses Jupyter Lab in addition to the following libraries and add ons
 
 * [pandas](https://pandas.pydata.org/docs/) for working with dataframes.
 
-* [haslib](https://docs.python.org/3/library/hashlib.html?msclkid=a7a6860bc86511ecb96f394a27d3543c) for hasing the blocks.
+* [hashlib](https://docs.python.org/3/library/hashlib.html?msclkid=a7a6860bc86511ecb96f394a27d3543c) for hasing the blocks.
 
 * [dataclasses](https://docs.python.org/3/library/dataclasses.html?msclkid=cee58621c86511ec8a5abaadba28fd0f) for classifying the data.
 
 * [datetime](https://docs.python.org/3/library/datetime.html?msclkid=e396ee15c86511ec88b1f63bc0d726fc) for assigning dates in realtime.
+
+* [web3](https://web3js.readthedocs.io/en/v1.7.3/) to work with the ethereum blockchain.
 
 ---
 
